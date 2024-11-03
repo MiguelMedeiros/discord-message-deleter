@@ -1,0 +1,5 @@
+/src/message_logs/**/*
+/dist
+/node_modules
+.env
+/logs/**/*
